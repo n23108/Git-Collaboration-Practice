@@ -1,0 +1,36 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Git Collaboration Practice</title>
+    <style>
+        body {
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            color: darkblue;
+        }
+
+        p {
+            font-size: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to our Git Project!</h1>
+    <p>This project is for practicing Git and GitHub.</p>
+    <p>We are learning how to collaborate.</p>
+    <button>Click Me</button>
+</body>
+</html>
